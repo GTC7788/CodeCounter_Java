@@ -1,2 +1,2 @@
 # CodeCounter_Java
-Very simple line counter written in Java
+A line counter program written in Java.
